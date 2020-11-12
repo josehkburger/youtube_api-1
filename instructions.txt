@@ -6,4 +6,4 @@ npm install primereact --save
 npm install primeicons --save
 npm install classnames --save
 npm install react-router-dom --save
-npm install react-router --save
+npm install react-router --save ff
